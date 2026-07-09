@@ -1,4 +1,5 @@
 # Banking Frontend
+![Frontend CI](https://github.com/krushnaDhage/banking-frontend/actions/workflows/frontend-ci.yml/badge.svg)
 
 A modern, responsive frontend for a full-stack Banking Transaction System built with React, Redux Toolkit, Tailwind CSS, Axios, React Router, and Vite.
 
